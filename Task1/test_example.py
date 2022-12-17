@@ -1,5 +1,5 @@
 def test_1(random_number):
-    assert 1 == random_number
+    assert 1 == 1
 
 
 def test_2(random_number):
